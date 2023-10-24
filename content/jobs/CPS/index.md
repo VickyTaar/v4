@@ -1,13 +1,15 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'CPS'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2023-04-20'
+title: 'Technical Support Engineeer'
+company: 'Cloud Productivity Solutions'
+location: 'Nairobi,Kenya'
+range: 'April - September 2023'
+url: 'https://cloudproductivity-solutions.com/"
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+-Managed cloud infrastructure, including Microsoft Azure resources, by provisioning and optimizing virtual machines, storage, and services.
+-Assisted clients in migrating on-premises systems to Microsoft Azure, ensuring a seamless transition.
+-Implemented security measures and compliance standards within Azure to protect data and meet regulations.
+-Created automation scripts using Azure DevOps, PowerShell, and other tools for streamlined cloud operations.
+-Monitored Azure resources for performance and cost optimization, making adjustments as needed.
+-Collaborated with cross-functional teams to design, implement, and maintain cloud solutions aligning with client needs and Microsoft best practices.
